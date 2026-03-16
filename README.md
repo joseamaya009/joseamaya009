@@ -1,10 +1,6 @@
 # José David Amaya Mosquera
 
-I am a Software Analysis and Development student at SENA in Colombia. I am passionate about technology, programming, and problem-solving.
-
-I enjoy building structured, well-organized systems and continuously improving my technical skills. I am currently strengthening my knowledge in backend development, databases, object-oriented programming, and software architecture.
-
-I consider myself disciplined, responsible, and committed to learning every day.
+[![GitHub Streak](https://streak-stats.demolab.com?user=joseamaya009&theme=dark&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 ## Education
 ### Technologist in Software Analysis and Development  
 Servicio Nacional de Aprendizaje (SENA) – Colombia
