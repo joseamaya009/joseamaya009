@@ -45,4 +45,3 @@ Servicio Nacional de Aprendizaje (SENA) – Colombia
 🔗 https://github.com/joseamaya009
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=joseamaya009&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
