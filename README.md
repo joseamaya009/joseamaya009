@@ -1,47 +1,108 @@
-# José David Amaya Mosquera
+<!--
+CONFIG
+FULL_NAME: José David Amaya Mosquera
+GITHUB_USER: joseamaya009
+EMAIL: josedam2704@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
 
-I am a Software Analysis and Development student at SENA in Colombia. I am passionate about technology, programming, and problem-solving.
+<h1 align="center">José David Amaya Mosquera</h1>
 
-I enjoy building structured, well-organized systems and continuously improving my technical skills. I am currently strengthening my knowledge in backend development, databases, object-oriented programming, and software architecture.
+<p align="center">
+  Software Analysis and Development Student | Backend Enthusiast | SENA Colombia
+</p>
 
-I consider myself disciplined, responsible, and committed to learning every day.
-## Education
-### Technologist in Software Analysis and Development  
-Servicio Nacional de Aprendizaje (SENA) – Colombia
+<p align="center">
+  <a href="https://github.com/joseamaya009">GitHub Profile</a>
+</p>
 
-- Database design (ER models, normalization, SQL)
-- Backend development
-- Object-Oriented Programming (OOP)
-- Requirements analysis
-- Software documentation
-## Technical Skills
+---
+
+## 📌 Profile
+
+I am a **Software Analysis and Development student at SENA (Colombia)**, passionate about technology, programming, and problem-solving.
+
+I enjoy building structured and well-organized systems while continuously improving my technical skills. Currently, I am strengthening my knowledge in:
+
+* Backend development
+* Databases
+* Object-Oriented Programming (OOP)
+* Software architecture
+
+I consider myself disciplined, responsible, and committed to continuous learning.
+
+---
+
+## 🎓 Education
+
+### Technologist in Software Analysis and Development
+
+**Servicio Nacional de Aprendizaje (SENA) – Colombia**
+
+Main training areas:
+
+* Database design (ER models, normalization, SQL)
+* Backend development
+* Object-Oriented Programming (OOP)
+* Requirements analysis
+* Software documentation
+
+---
+
+## 💻 Technical Skills
+
 ### Languages
-- Java
-- SQL
 
-### Database
-- MySQL
-- Microsoft SQL Server
+* Java
+* SQL
+
+### Databases
+
+* MySQL
+* Microsoft SQL Server
 
 ### Paradigms
-- Object-Oriented Programming (OOP)
+
+* Object-Oriented Programming (OOP)
 
 ### Tools
-- Git
-- GitHub
+
+* Git
+* GitHub
 
 ### Concepts
-- CRUD systems
-- REST structure basics
-- Layered architecture
-## Current Goals
-- Strengthen backend architecture skills
-- Improve clean code practices
-- Build scalable CRUD systems
-- Continue growing as a professional software developer
-## Contact
-📍 Campoalegre - Huila - Colombia  
-📧 josedam2704@gmail.com  
-🔗 https://github.com/joseamaya009
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=joseamaya009&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+
+* CRUD systems
+* REST structure basics
+* Layered architecture
+
+---
+
+## 🎯 Current Goals
+
+* Strengthen backend architecture skills
+* Improve clean code practices
+* Build scalable CRUD systems
+* Continue growing as a professional software developer
+
+---
+
+## 📫 Contact
+
+📍 Campoalegre - Huila - Colombia
+📧 [josedam2704@gmail.com](mailto:josedam2704@gmail.com)
+🔗 GitHub: https://github.com/joseamaya009
+
+---
+
+## 🏢 Institutional Organization
+
+This profile is associated with the **code-sena** organization.
+
+🔗 https://github.com/code-sena
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joseamaya009\&theme=transparent\&hide_border=true\&locale=es\&short_numbers=true\&date_format=j%20M%5B%20Y%5D\&card_width=1000)](https://git.io/streak-stats)
