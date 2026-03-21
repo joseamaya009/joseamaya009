@@ -1,74 +1,79 @@
 <!-- CONFIG -->
 
+<h1 align="center">José David Amaya Mosquera</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=José%20David%20Amaya&fontSize=45&color=0:000000,100:001f3f&stroke=00f7ff&fontColor=00f7ff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Java%20%7C%20SQL&descAlignY=70"/>
+  Backend Developer (Junior) | Java | SQL | SENA Colombia
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+SQL+%7C+APIs;Clean+Code+%2B+Architecture;Future+Software+Engineer"/>
+  <a href="mailto:josedam2704@gmail.com">Email</a> •
+  <a href="https://github.com/joseamaya009">GitHub</a>
 </p>
 
 ---
 
-## 🧠 Professional Profile
+## 🧠 Profile
 
-🎯 **Software Analysis and Development Student – SENA (Colombia)**  
+Software Analysis and Development student at SENA (Colombia), focused on backend development.
 
-Backend-focused developer with strong foundations in:
+I build structured and maintainable systems using **Java and SQL**, applying principles of **clean code, layered architecture, and database design**.
 
-- REST API design  
-- Database modeling  
-- Object-Oriented Programming  
+Interested in developing scalable applications and continuing growth as a backend engineer.
+
+---
+
+## 💼 Experience
+
+**Backend Developer (Academic Projects)**  
+*SENA – Colombia | 2025 – Present*
+
+- Developed CRUD systems using Java and relational databases  
+- Applied layered architecture (controller, service, repository)  
+- Designed normalized databases (ER models, SQL)  
+- Structured modular code for maintainability and scalability  
+- Documented system requirements and workflows  
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:**  
+Java, SQL  
+
+**Databases:**  
+MySQL, SQL Server  
+
+**Core Knowledge:**  
+- REST API fundamentals  
+- Object-Oriented Programming (OOP)  
 - Layered architecture  
+- Database normalization  
+- CRUD system design  
 
-💡 I build **structured, scalable and maintainable systems**, following clean code principles.
-
----
-
-## 💼 Experience (Simulated but PRO)
-
-### 🏢 Backend Developer (Academic Projects)
-📅 2025 – Present  
-
-- Designed and developed CRUD systems with Java & SQL  
-- Built REST-like architectures for modular applications  
-- Applied normalization and relational database design  
-- Documented requirements and system flows  
+**Tools:**  
+Git, GitHub, VS Code  
 
 ---
 
-## 🚀 Featured Projects (PORTAFOLIO REAL)
+## 📈 Current Focus
 
-<p align="center">
-  <a href="https://github.com/joseamaya009/YOUR-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=YOUR-API&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/joseamaya009/YOUR-CRUD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=YOUR-CRUD&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-### 🔥 Recommended project ideas (IMPORTANT)
-- Inventory system (CRUD + roles)
-- REST API (users + auth)
-- Mini ERP system
-- Task manager API
+- Strengthening backend architecture  
+- Improving clean code practices  
+- Building complete backend applications  
+- Learning frameworks (Spring Boot)  
 
 ---
 
-## ⚙️ Tech Stack
+## 🎓 Education
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=dark" />
-</p>
+**Technologist in Software Analysis and Development**  
+SENA – Colombia  
 
 ---
 
-## 🧩 Architecture Knowledge
+## 📫 Contact
 
-```txt id="ultra-arch"
-✔ Layered Architecture (Controller - Service - Repository)
-✔ REST principles
-✔ SQL normalization
-✔ Clean code practices
-✔ Modular design
+📧 josedam2704@gmail.com  
+🔗 GitHub: https://github.com/joseamaya009  
+📍 Colombia  
