@@ -6,7 +6,6 @@ EMAIL: josedam2704@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
-<!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=José%20David%20Amaya&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -20,9 +19,8 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Java+%7C+JavaScript;Spring+Boot+%7C+Node.js;REST+APIs+%7C+Deploy;Always+Learning&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Java+%7C+JavaScript;Learning+Node.js+APIs;Always+Improving&center=true&width=600&height=45">
 </p>
 
 ---
@@ -31,8 +29,8 @@ CODE_ORGANIZATION: code-sena
 
 💡 Software Analysis and Development student at **SENA (Colombia)**  
 💻 Focused on **Fullstack Development**  
-🧠 Interested in backend architecture and scalable systems  
-🌐 Experience deploying simple APIs  
+🧠 Interested in backend architecture and API development  
+🧪 Experience testing APIs with Thunder Client  
 📍 Campoalegre - Huila - Colombia  
 
 ---
@@ -46,12 +44,13 @@ CODE_ORGANIZATION: code-sena
 
 ### ⚙️ Tools & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thunder%20Client-API%20Testing-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -61,19 +60,19 @@ CODE_ORGANIZATION: code-sena
 - Fullstack development basics  
 - Object-Oriented Programming (OOP)  
 - Database design (ER, normalization, SQL)  
-- REST API development  
-- API deployment (Node.js / Express)  
-- Layered architecture  
+- REST API concepts  
+- API testing (Thunder Client)  
 - CRUD systems  
+- Layered architecture  
 
 ---
 
 ## 🎯 Current Goals
 
-- Build fullstack applications with real deployment  
+- Build and deploy my first REST API  
 - Improve frontend skills (HTML, CSS, JS)  
 - Strengthen backend with Spring Boot  
-- Write clean and scalable code  
+- Learn Node.js for backend development  
 
 ---
 
@@ -100,13 +99,7 @@ CODE_ORGANIZATION: code-sena
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/joseamaya009">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=api-practica&theme=tokyonight" />
-  </a>
-</p>
-
-> 🔹 Agrega aquí tus APIs desplegadas cuando las tengas (muy importante)
+> 🚧 Coming soon: My first deployed API (Node.js)
 
 ---
 
@@ -133,7 +126,6 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=120&section=footer"/>
 </p>
