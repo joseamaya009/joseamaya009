@@ -105,3 +105,6 @@ This profile is associated with the **code-sena** organization.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joseamaya009&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000" />
 </p>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/[ICON SLUG].svg" />
