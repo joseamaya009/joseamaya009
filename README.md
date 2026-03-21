@@ -22,7 +22,7 @@ CODE_ORGANIZATION: code-sena
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Java+%7C+JavaScript;Spring+Boot+%7C+REST+APIs;Always+Learning&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Java+%7C+JavaScript;Spring+Boot+%7C+Node.js;REST+APIs+%7C+Deploy;Always+Learning&center=true&width=600&height=45">
 </p>
 
 ---
@@ -31,7 +31,8 @@ CODE_ORGANIZATION: code-sena
 
 💡 Software Analysis and Development student at **SENA (Colombia)**  
 💻 Focused on **Fullstack Development**  
-🧠 Interested in backend architecture and frontend fundamentals  
+🧠 Interested in backend architecture and scalable systems  
+🌐 Experience deploying simple APIs  
 📍 Campoalegre - Huila - Colombia  
 
 ---
@@ -40,7 +41,7 @@ CODE_ORGANIZATION: code-sena
 
 ### 💻 Languages & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql" />
 </p>
 
 ### ⚙️ Tools & Frameworks
@@ -49,8 +50,8 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 <p align="center">
-  <!-- Spring Boot badge -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ---
@@ -61,6 +62,7 @@ CODE_ORGANIZATION: code-sena
 - Object-Oriented Programming (OOP)  
 - Database design (ER, normalization, SQL)  
 - REST API development  
+- API deployment (Node.js / Express)  
 - Layered architecture  
 - CRUD systems  
 
@@ -68,10 +70,10 @@ CODE_ORGANIZATION: code-sena
 
 ## 🎯 Current Goals
 
+- Build fullstack applications with real deployment  
 - Improve frontend skills (HTML, CSS, JS)  
-- Build fullstack applications  
 - Strengthen backend with Spring Boot  
-- Write cleaner and scalable code  
+- Write clean and scalable code  
 
 ---
 
@@ -103,6 +105,8 @@ CODE_ORGANIZATION: code-sena
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=api-practica&theme=tokyonight" />
   </a>
 </p>
+
+> 🔹 Agrega aquí tus APIs desplegadas cuando las tengas (muy importante)
 
 ---
 
