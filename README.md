@@ -129,7 +129,7 @@ CODE_ORGANIZATION: code-sena
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
