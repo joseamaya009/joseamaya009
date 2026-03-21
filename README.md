@@ -45,6 +45,14 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joseamaya009&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 🌐 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
@@ -125,8 +133,6 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 ---
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
