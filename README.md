@@ -6,105 +6,120 @@ EMAIL: josedam2704@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
-<h1 align="center">José David Amaya Mosquera</h1>
-
+<!-- BANNER -->
 <p align="center">
-  Software Analysis and Development Student | Backend Enthusiast | SENA Colombia
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=José%20David%20Amaya&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h1 align="center">Hi 👋, I'm José David Amaya Mosquera</h1>
+<h3 align="center">Backend Developer in Progress | SENA Colombia 🇨🇴</h3>
+
 <p align="center">
-  <a href="https://github.com/joseamaya009">GitHub Profile</a>
+  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📌 Profile
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Java+%7C+SQL;Clean+Code+Enthusiast;Building+Scalable+Systems;Always+Learning&center=true&width=600&height=45">
+</p>
 
-I am a **Software Analysis and Development student at SENA (Colombia)**, passionate about technology, programming, and problem-solving.
+---
 
-I enjoy building structured and well-organized systems while continuously improving my technical skills.
+## 🚀 About Me
 
-Currently, I am strengthening my knowledge in:
+💡 Software Analysis and Development student at **SENA (Colombia)**  
+💻 Passionate about backend development and structured systems  
+🧠 Focused on clean code, scalability, and architecture  
+📍 Campoalegre - Huila - Colombia  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,docker" />
+</p>
+
+---
+
+## 📚 Knowledge & Concepts
 
 - Backend development  
-- Databases  
 - Object-Oriented Programming (OOP)  
-- Software architecture  
-
-I consider myself disciplined, responsible, and committed to continuous learning.
-
----
-
-## 🎓 Education
-
-### Technologist in Software Analysis and Development
-
-**Servicio Nacional de Aprendizaje (SENA) – Colombia**
-
-Main training areas:
-
-- Database design (ER models, normalization, SQL)  
-- Backend development  
-- Object-Oriented Programming (OOP)  
-- Requirements analysis  
-- Software documentation  
-
----
-
-## 💻 Technical Skills
-
-### Languages
-- Java  
-- SQL  
-
-### Databases
-- MySQL  
-- Microsoft SQL Server  
-
-### Paradigms
-- Object-Oriented Programming (OOP)  
-
-### Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
-  </a>
-</p>
-
-### Concepts
-- CRUD systems  
-- REST structure basics  
+- Database design (ER, normalization, SQL)  
 - Layered architecture  
+- CRUD & REST basics  
 
 ---
 
 ## 🎯 Current Goals
 
-- Strengthen backend architecture skills  
+- Build scalable backend systems  
 - Improve clean code practices  
-- Build scalable CRUD systems  
-- Continue growing as a professional software developer  
+- Master REST API design  
+- Strengthen software architecture  
 
 ---
 
-## 📫 Contact
-
-📍 Campoalegre - Huila - Colombia  
-📧 [josedam2704@gmail.com](mailto:josedam2704@gmail.com)  
-🔗 GitHub: https://github.com/joseamaya009  
-
----
-
-## 🏢 Institutional Organization
-
-This profile is associated with the **code-sena** organization.
-
-🔗 https://github.com/code-sena  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joseamaya009&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseamaya009&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseamaya009&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joseamaya009&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseamaya009&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/joseamaya009">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=api-practica&theme=tokyonight" />
+  </a>
+</p>
+
+> 🔹 Puedes reemplazar `api-practica` por tus mejores repos
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:josedam2704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/joseamaya009">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏢 Organization
+
+<p align="center">
+  <a href="https://github.com/code-sena">
+    <img src="https://img.shields.io/badge/code--sena-Organization-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=120&section=footer"/>
 </p>
