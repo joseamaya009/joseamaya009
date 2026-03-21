@@ -1,74 +1,107 @@
-<!-- CONFIG -->
+<!--
+CONFIG
+FULL_NAME: José David Amaya Mosquera
+GITHUB_USER: joseamaya009
+EMAIL: josedam2704@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
+<h1 align="center">José David Amaya Mosquera</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=José%20David%20Amaya&fontSize=45&color=0:000000,100:001f3f&stroke=00f7ff&fontColor=00f7ff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Java%20%7C%20SQL&descAlignY=70"/>
+  Software Analysis and Development Student | Backend Enthusiast | SENA Colombia
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+SQL+%7C+APIs;Clean+Code+%2B+Architecture;Future+Software+Engineer"/>
+  <a href="https://github.com/joseamaya009">GitHub Profile</a>
 </p>
 
 ---
 
-## 🧠 Professional Profile
+## 📌 Profile
 
-🎯 **Software Analysis and Development Student – SENA (Colombia)**  
+I am a **Software Analysis and Development student at SENA (Colombia)**, passionate about technology, programming, and problem-solving.
 
-Backend-focused developer with strong foundations in:
+I enjoy building structured and well-organized systems while continuously improving my technical skills.
 
-- REST API design  
-- Database modeling  
-- Object-Oriented Programming  
+Currently, I am strengthening my knowledge in:
+
+- Backend development  
+- Databases  
+- Object-Oriented Programming (OOP)  
+- Software architecture  
+
+I consider myself disciplined, responsible, and committed to continuous learning.
+
+---
+
+## 🎓 Education
+
+### Technologist in Software Analysis and Development
+
+**Servicio Nacional de Aprendizaje (SENA) – Colombia**
+
+Main training areas:
+
+- Database design (ER models, normalization, SQL)  
+- Backend development  
+- Object-Oriented Programming (OOP)  
+- Requirements analysis  
+- Software documentation  
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+- Java  
+- SQL  
+
+### Databases
+- MySQL  
+- Microsoft SQL Server  
+
+### Paradigms
+- Object-Oriented Programming (OOP)  
+
+### Tools
+- Git  
+- GitHub  
+
+### Concepts
+- CRUD systems  
+- REST structure basics  
 - Layered architecture  
 
-💡 I build **structured, scalable and maintainable systems**, following clean code principles.
+---
+
+## 🎯 Current Goals
+
+- Strengthen backend architecture skills  
+- Improve clean code practices  
+- Build scalable CRUD systems  
+- Continue growing as a professional software developer  
 
 ---
 
-## 💼 Experience (Simulated but PRO)
+## 📫 Contact
 
-### 🏢 Backend Developer (Academic Projects)
-📅 2025 – Present  
-
-- Designed and developed CRUD systems with Java & SQL  
-- Built REST-like architectures for modular applications  
-- Applied normalization and relational database design  
-- Documented requirements and system flows  
+📍 Campoalegre - Huila - Colombia  
+📧 [josedam2704@gmail.com](mailto:josedam2704@gmail.com)  
+🔗 GitHub: https://github.com/joseamaya009  
 
 ---
 
-## 🚀 Featured Projects (PORTAFOLIO REAL)
+## 🏢 Institutional Organization
+
+This profile is associated with the **code-sena** organization.
+
+🔗 https://github.com/code-sena  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/joseamaya009/YOUR-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=YOUR-API&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/joseamaya009/YOUR-CRUD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=YOUR-CRUD&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=joseamaya009&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1000" />
 </p>
-
-### 🔥 Recommended project ideas (IMPORTANT)
-- Inventory system (CRUD + roles)
-- REST API (users + auth)
-- Mini ERP system
-- Task manager API
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🧩 Architecture Knowledge
-
-```txt id="ultra-arch"
-✔ Layered Architecture (Controller - Service - Repository)
-✔ REST principles
-✔ SQL normalization
-✔ Clean code practices
-✔ Modular design
