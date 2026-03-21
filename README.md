@@ -6,6 +6,7 @@ EMAIL: josedam2704@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
+<!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=José%20David%20Amaya&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -37,20 +38,48 @@ CODE_ORGANIZATION: code-sena
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Technologies
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
-### ⚙️ Tools & Frameworks
+---
+
+### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thunder%20Client-API%20Testing-orange?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 🧪 API Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Thunder%20Client-Testing-orange?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
@@ -61,7 +90,7 @@ CODE_ORGANIZATION: code-sena
 - Object-Oriented Programming (OOP)  
 - Database design (ER, normalization, SQL)  
 - REST API concepts  
-- API testing (Thunder Client)  
+- API testing  
 - CRUD systems  
 - Layered architecture  
 
@@ -72,7 +101,7 @@ CODE_ORGANIZATION: code-sena
 - Build and deploy my first REST API  
 - Improve frontend skills (HTML, CSS, JS)  
 - Strengthen backend with Spring Boot  
-- Learn Node.js for backend development  
+- Learn Node.js for backend  
 
 ---
 
@@ -93,6 +122,14 @@ CODE_ORGANIZATION: code-sena
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseamaya009&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -126,6 +163,7 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e75b6&height=120&section=footer"/>
 </p>
