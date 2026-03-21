@@ -12,7 +12,7 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 <h1 align="center">Hi 👋, I'm José David Amaya Mosquera</h1>
-<h3 align="center">Backend Developer in Progress | SENA Colombia 🇨🇴</h3>
+<h3 align="center">Fullstack Junior Developer | SENA Colombia 🇨🇴</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
@@ -22,7 +22,7 @@ CODE_ORGANIZATION: code-sena
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Java+%7C+SQL;Clean+Code+Enthusiast;Building+Scalable+Systems;Always+Learning&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Java+%7C+JavaScript;Spring+Boot+%7C+REST+APIs;Always+Learning&center=true&width=600&height=45">
 </p>
 
 ---
@@ -30,36 +30,48 @@ CODE_ORGANIZATION: code-sena
 ## 🚀 About Me
 
 💡 Software Analysis and Development student at **SENA (Colombia)**  
-💻 Passionate about backend development and structured systems  
-🧠 Focused on clean code, scalability, and architecture  
+💻 Focused on **Fullstack Development**  
+🧠 Interested in backend architecture and frontend fundamentals  
 📍 Campoalegre - Huila - Colombia  
 
 ---
 
 ## 🧰 Tech Stack
 
+### 💻 Languages & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
+
+### ⚙️ Tools & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+<p align="center">
+  <!-- Spring Boot badge -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
 
 ## 📚 Knowledge & Concepts
 
-- Backend development  
+- Fullstack development basics  
 - Object-Oriented Programming (OOP)  
 - Database design (ER, normalization, SQL)  
+- REST API development  
 - Layered architecture  
-- CRUD & REST basics  
+- CRUD systems  
 
 ---
 
 ## 🎯 Current Goals
 
-- Build scalable backend systems  
-- Improve clean code practices  
-- Master REST API design  
-- Strengthen software architecture  
+- Improve frontend skills (HTML, CSS, JS)  
+- Build fullstack applications  
+- Strengthen backend with Spring Boot  
+- Write cleaner and scalable code  
 
 ---
 
@@ -91,8 +103,6 @@ CODE_ORGANIZATION: code-sena
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseamaya009&repo=api-practica&theme=tokyonight" />
   </a>
 </p>
-
-> 🔹 Puedes reemplazar `api-practica` por tus mejores repos
 
 ---
 
