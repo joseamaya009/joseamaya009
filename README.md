@@ -65,8 +65,11 @@ Main training areas:
 - Object-Oriented Programming (OOP)  
 
 ### Tools
-- Git  
-- GitHub  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  </a>
+</p>
 
 ### Concepts
 - CRUD systems  
