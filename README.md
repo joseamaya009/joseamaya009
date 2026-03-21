@@ -134,11 +134,6 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
-## 🚀 Featured Projects
-
-> 🚧 Coming soon: My first deployed API (Node.js)
-
----
 
 ## 🌐 Connect With Me
 
