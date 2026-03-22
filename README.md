@@ -36,19 +36,17 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joseamaya009&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -133,13 +131,6 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 
 ## 🌐 Connect With Me
 
