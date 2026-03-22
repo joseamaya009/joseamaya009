@@ -24,6 +24,10 @@ CODE_ORGANIZATION: code-sena
   <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Java+%7C+JavaScript;Learning+Node.js+APIs;Always+Improving&center=true&width=600&height=45">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
