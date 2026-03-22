@@ -26,6 +26,12 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 💡 Software Analysis and Development student at **SENA (Colombia)**  
@@ -33,12 +39,6 @@ CODE_ORGANIZATION: code-sena
 🧠 Interested in backend architecture and API development  
 🧪 Experience testing APIs with Thunder Client  
 📍 Campoalegre - Huila - Colombia  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
