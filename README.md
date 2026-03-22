@@ -11,10 +11,6 @@ CODE_ORGANIZATION: code-sena
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=José%20David%20Amaya&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
-</p>
-
 <h1 align="center">Hi 👋, I'm José David Amaya Mosquera</h1>
 <h3 align="center">Fullstack Junior Developer | SENA Colombia 🇨🇴</h3>
 
