@@ -26,12 +26,6 @@ CODE_ORGANIZATION: code-sena
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 🚀 About Me
 
 💡 Software Analysis and Development student at **SENA (Colombia)**  
