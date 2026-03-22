@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <!--
 CONFIG
 FULL_NAME: José David Amaya Mosquera
@@ -5,10 +9,6 @@ GITHUB_USER: joseamaya009
 EMAIL: josedam2704@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <!-- BANNER -->
 <p align="center">
