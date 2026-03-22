@@ -12,15 +12,15 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/joseamaya009/joseamaya009/output/github-contribution-grid-snake.svg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm José David Amaya Mosquera</h1>
 <h3 align="center">Fullstack Junior Developer | SENA Colombia 🇨🇴</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseamaya009&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
